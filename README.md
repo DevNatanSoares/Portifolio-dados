@@ -1,4 +1,7 @@
-# Portifólio_Dados
+ #  Portifólio 
+
+<img width="2639" height="830" alt="Group 1" src="https://github.com/user-attachments/assets/6a579978-a40f-4e7b-a5b6-7dce05dc1216" />
+
 ## Neste repositório, viso estar divulgando meus trabalhos com dados. Mantendo conteúdos atualizados utilizando ferramentas como Sql, Python, Power bi e Excel. No rodapé também deixarei um link para acesso de outro portifólio, que por sua vez possui conteúdo de designe. 
 #### Aqui você encontrará conteúdos como:
 #### - Visualização de dados (Power Bi, PostgreSQL, Excel, Figma);
